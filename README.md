@@ -1,5 +1,4 @@
 # hello-world
-github website intro task
 
 
 Sup y'all,
